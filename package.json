@@ -48,6 +48,7 @@
     "phantomjs": "^1.9.17",
     "phantomjs-polyfill": "0.0.1",
     "react-hot-loader": "^1.1.5",
+    "reagent": "^1.0.0",
     "webpack": "^1.10.5",
     "webpack-dev-server": "^1.8.0"
   }
